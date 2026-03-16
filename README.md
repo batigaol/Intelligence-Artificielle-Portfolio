@@ -7,6 +7,7 @@ This repository contains my projects in:
 - Natural Language Processing
 - Big Data analytics
 - Machine Learning with R
+- Développement d’algorithme d'eXplainable Artificial Intelligence (XAI)
 
 Technologies used:
 
